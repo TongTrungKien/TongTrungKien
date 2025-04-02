@@ -12,7 +12,7 @@
 
 <h2 align="center">🌟 Hi 👋! My name is Tong Trung Kien and I'm a Software Developer, from Viet Nam. 🚀</h2>
 
-Welcome to my GitHub! I'm a passionate **.NET Developer** with expertise in:
+Welcome to my GitHub! I'm a **.NET Developer** with experience in:
 
 💻 **Backend Development**: C#, .NET, ASP.NET  
 🛢️ **Database**: SQL Server, Docker  
