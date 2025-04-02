@@ -15,7 +15,7 @@
 Welcome to my GitHub! I'm a passionate **.NET Developer** with expertise in:
 
 💻 **Backend Development**: C#, .NET, ASP.NET  
-🛢️ **Database**: SQL Server, Docker
+🛢️ **Database**: SQL Server, Docker  
 🌐 **Frontend Technologies**: HTML, CSS  
 ☕ **Programming Languages**: Java, PHP  
 
