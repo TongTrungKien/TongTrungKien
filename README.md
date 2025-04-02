@@ -21,12 +21,6 @@ Welcome to my GitHub! I'm a passionate **.NET Developer** with expertise in:
 
 ---
 
-### 📸 About Me
-
-💡 I love building web applications and working with databases to create efficient and scalable solutions. My goal is to continuously improve my skills and contribute to innovative projects.
-
----
-
 ### 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TongTrungKien&layout=compact&theme=tokyonight" />
