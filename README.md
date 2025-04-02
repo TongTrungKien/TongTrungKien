@@ -2,19 +2,26 @@
   <img height="200" src="https://cdn.dribbble.com/userupload/21210683/file/original-ae94429d47d4e9de6293b05a8f0bc66d.gif"  />
 </div>
 
-<h1 align="center">🌟 Hey there! I'm a .NET Developer 🚀</h1>
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TongTrungKien&label=Visitors&color=0e75b6&style=for-the-badge" />
+</div>
+
+###
+
+<h2 align="center">🌟 Hi 👋! My name is Tong Trung Kien and I'm a Software Developer, from Viet Nam. 🚀</h2>
 
 Welcome to my GitHub! I'm a passionate **.NET Developer** with expertise in:
 
 💻 **Backend Development**: C#, .NET, ASP.NET  
-🛢️ **Database**: SQL Server  
+🛢️ **Database**: SQL Server, Docker
 🌐 **Frontend Technologies**: HTML, CSS  
 ☕ **Programming Languages**: Java, PHP  
 
 ---
 
 ### 📸 About Me
-![Developer](https://camo.githubusercontent.com/5f9a010b65fddd4828e4e3767859e22d61de9256fae1c27a4a4c3215a7e956f6/68747470733a2f2f7777772e77616c6c7061706572732e636f6d2f75706c6f61642f323032302f30392f6465766f70732d636f6e636570742e676966)
 
 💡 I love building web applications and working with databases to create efficient and scalable solutions. My goal is to continuously improve my skills and contribute to innovative projects.
 
@@ -46,8 +53,18 @@ Welcome to my GitHub! I'm a passionate **.NET Developer** with expertise in:
 
 ---
 
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/TongTrungKien)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tongtrungkien2012@gmail.com)
 
 🚀 **Let's build something amazing together!**
