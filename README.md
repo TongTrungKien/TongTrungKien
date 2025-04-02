@@ -12,7 +12,7 @@
 
 <h2 align="center"> Hi 👋! My name is Tong Trung Kien and I'm a Software Developer, from Viet Nam. 🚀</h2>
 
-🌟I have experience in:
+### 🌟 I have experience in:
 
 💻 **Backend Development**: C#, .NET, ASP.NET  
 🛢️ **Database**: SQL Server, Docker  
