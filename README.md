@@ -14,7 +14,7 @@
 
 ### 🌟 I have experience in:
 
-💻 **Backend Development**: C#, .NET, ASP.NET, Windows Forms  
+💻 **Backend Development**: C#, .NET, ASP.NET,   
 🛢️ **Database**: SQL Server, Docker  
 🌐 **Frontend Technologies**: HTML, CSS  
 ☕ **Programming Languages**: Java, PHP  
