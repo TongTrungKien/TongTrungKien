@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/leereilly/leereilly/master/game.gif" alt="Game of Life" width="100%" />
 </div>
 Reference from Mr. <a href="https://github.com/leereyly">leereyly</a>
-
+<br>
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/TongTrungKien)
