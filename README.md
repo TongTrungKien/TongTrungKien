@@ -65,7 +65,7 @@ Reference from Mr. <a href="https://github.com/leereyly">leereyly</a>
 <br>
 
 ### 📬 Connect with Me
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ken976033282)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ken97603282)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/TongTrungKien)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tongtrungkien2012@gmail.com)
 
