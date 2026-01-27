@@ -56,6 +56,11 @@
 </picture>
 
 <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leereilly/leereilly/master/game.gif" alt="Game of Life" width="100%" />
+</div>
+Reference from Mr. <a href="https://github.com/leereyly">leereyly</a>
 
 ### 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
