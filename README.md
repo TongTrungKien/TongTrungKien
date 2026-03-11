@@ -60,7 +60,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/leereilly/leereilly/master/game.gif" alt="Game of Life" width="100%" />
 </div>
-Reference from Mr. <a href="https://github.com/leereyly">leereyly</a>
+Generated with Mr. <a href="https://github.com/leereyly">leereyly</a>
 
 <br>
 
